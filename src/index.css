@@ -1,0 +1,17 @@
+body{
+  margin:unset;
+}
+.p-menubar .p-menubar-start{
+  /*flex:1 1;*/
+}
+.p-menubar .p-menubar-end{
+  flex:1 1;
+  margin-left: unset;
+
+
+}
+
+.p-menubar-root-list{
+  display: flex;
+
+}
